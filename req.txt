@@ -7,6 +7,4 @@ llama-index-embeddings-google-genai
 llama-index-llms-google-genai
 llmwhisperer-client
 python-docx
-
-#llama-index-llms-gemini
 pdfservices-sdk==4.1.1
