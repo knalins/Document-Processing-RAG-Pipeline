@@ -1,5 +1,7 @@
 # Document-Processing-RAG-Pipeline
 
+![PDF Extraction Pipeline](https://github.com/user-attachments/assets/fa1ae41f-f0b3-445c-913d-1b03e69a8172)
+
 **Before you begin**, please ensure you've **configured the following requirements within the `main()` function** (typically in `main.py` or a dedicated configuration section) in STEP 1:
 * **LLMWhispererV2 API Key:** PDF data extraction tool.
 * **Google GenAI API Key:** Retrieval Augmented Generation (RAG) engine and Embeddings that generates answers.
